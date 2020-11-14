@@ -1,22 +1,16 @@
-A library for Dart developers.
+A library to control a [ECoS][ECoS] in an objectively friendly way.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+I don't claim that this library will represent *every* possible Object in the ECoS
+but it will include the basic things (Switches, Trains). I will try to extend the
+functionality.
 
 ## Usage
 
-A simple usage example:
-
-```dart
-import 'package:ObjectiveECoS/ObjectiveECoS.dart';
-
-main() {
-  var awesome = new Awesome();
-}
-```
+// TODO: add usage
 
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/TheKingDave/ObjectiveECoS/issues
+[ECoS]: https://www.esu.eu/en/products/digital-control/ecos-50210-dcc-system/what-ecos-can-do/
